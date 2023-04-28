@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">Hola! Soy Ivon Escobar 🐇    Estoy creciendo en el mundo de la programación 👩‍🎓 </div>  
-  
+### <div align="center">Hola! Soy Ivon Escobar .. 🐇</div>  
+### <div align="center">Estoy creciendo en el mundo de la programación 👩‍🎓 </div>   
 
 - 💬 Ahora me encuentro terminando mi [Encriptador web](https://github.com/IvonEsc/Encriptador)  
   
@@ -14,25 +14,22 @@
 
 - ❓ Estoy en proceso de aprendizaje, pero si puedo responderte una consulta, estoy para ayudar!  
   
+<br/>
 
 ⚡ Que me gusta hacer en mi tiempo libre?
 
-🎮 Jugar videojuegos.
+ -🎮 Jugar videojuegos.
 
-📚 Leer libros de fantasía y mangas.
+ -📚 Leer libros de fantasía y mangas.
 
-🥣Cocinar.  
+ -🥣Cocinar.  
   
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Los lenguajes que sé 👇  
+## Los lenguajes que sé 👇  
+ 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -40,17 +37,7 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
@@ -65,11 +52,5 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IvonEsc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
